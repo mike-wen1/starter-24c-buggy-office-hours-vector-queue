@@ -5,6 +5,8 @@
 #include "staff.hpp"
 #include "student.hpp"
 
+using namespace std;
+
 int main() {
   OfficeHoursQueue queue;
 
